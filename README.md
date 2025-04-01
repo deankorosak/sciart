@@ -1,2 +1,2 @@
 # sciart
-code and data for book chapter
+code and data for the book chapter
